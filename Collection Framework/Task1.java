@@ -9,9 +9,9 @@ public class Task1 {
 		Set<Integer> hSetNumbers = new HashSet<Integer>();
 
 		hSetNumbers.add(1);
-		hSetNumbers.add(13);
+		hSetNumbers.add(10);
+		hSetNumbers.add(6);
 		hSetNumbers.add(2);
-		hSetNumbers.add(4);
 
 		for (Integer number : hSetNumbers) {
 			System.out.println(number);
